@@ -1,0 +1,283 @@
+
+ 3. Instantiating NANO dynamically on HEAP:
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsLarge
+In constructor DoorsLarge
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsSmall
+In constructor DoorsSmall
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Default Constructor Car
+In constructor Car
+In constructor Nano
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Parameterized Constructor DoorsSmall
+In  SetDoorsSmall
+Default Constructor Nano 
+ NANO CREATED
+In GetDoorsCount Nano
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Doors in car: Nano are = 4
+In  GetDoorsSize Nano
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Door Size is Small
+
+ 4. Instantiating Swift as local variables on stack 
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsLarge
+In constructor DoorsLarge
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsSmall
+In constructor DoorsSmall
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Default Constructor Car
+In constructor Car
+In constructor Swift
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Parameterized Constructor DoorsSmall
+In  SetDoorsSmall
+Default Constructor Swift 
+ Swift CREATED
+
+ 4.Instantiating Tron as local variables on stack 
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsLarge
+In constructor DoorsLarge
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsSmall
+In constructor DoorsSmall
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Default Constructor Car
+In constructor Car
+In constructor Tron
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Parameterized Constructor DoorsSmall
+In  SetDoorsSmall
+Default Constructor Tron
+ TRON CREATED
+
+ 5. Door count for Swift
+In GetDoorsCount Class : Swift
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Doors in car: Swift are = 4
+
+ 5. Door count for Tron
+In GetDoorsCount Tron
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Doors in car: Tron are = 2
+
+ 6. Door size for Swift
+In GetDoorsSize Class: Swift
+In  GetDoorCount DoorsLarge
+Door Size is Large
+
+ 6. Door size for Tron
+In GetDoorsSize Tron
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Door Size is Small
+
+ 7. Iterating a vector of items dynamically created: 
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsLarge
+In constructor DoorsLarge
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsSmall
+In constructor DoorsSmall
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Default Constructor Car
+In constructor Car
+In constructor Swift
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Parameterized Constructor DoorsSmall
+In  SetDoorsSmall
+Default Constructor Swift 
+ Swift CREATED
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsLarge
+In constructor DoorsLarge
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsSmall
+In constructor DoorsSmall
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Default Constructor Car
+In constructor Car
+In constructor Tron
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Parameterized Constructor DoorsSmall
+In  SetDoorsSmall
+Default Constructor Tron
+ TRON CREATED
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsLarge
+In constructor DoorsLarge
+Default Constructor Doors
+In constructor Doors
+Default Constructor DoorsSmall
+In constructor DoorsSmall
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Default Constructor Car
+In constructor Car
+In constructor Swift
+Parameterized Constructor DoorsLarge
+In SetDoorsLarge
+Parameterized Constructor DoorsSmall
+In  SetDoorsSmall
+Default Constructor Swift 
+ Swift CREATED
+In printSharedPTR
+ 
+ Details for In GetDoorsCount Class : Swift
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Doors in car: Swift are = 4
+In GetDoorsSize Class: Swift
+In  GetDoorCount DoorsLarge
+Door Size is Large
+ 
+ Details for In GetDoorsCount Nano
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Doors in car: Nano are = 4
+In  GetDoorsSize Nano
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Door Size is Small
+ 
+ Details for In GetDoorsCount Tron
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Doors in car: Tron are = 2
+In GetDoorsSize Tron
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Door Size is Small
+ 
+ Details for In GetDoorsCount Class : Swift
+In  GetDoorCount DoorsLarge
+In GetDoorCount DoorsSmall
+Doors in car: Swift are = 4
+In GetDoorsSize Class: Swift
+In  GetDoorCount DoorsLarge
+Door Size is Large
+
+ 8. Delete memory allocated for dynamically allocated cars
+
+In deleteSharedPTR
+
+######################### 1
+
+In destructor Swift
+Destructor for Swift called
+Destructor for Car called
+In destructor Car
+In destructor DoorsSmall
+Destructor for DoorsSmall called
+Destructor for Doors called
+In Destructor Doors
+Destructor for DoorsLarge called
+In Destructor DoorsLarge
+Destructor for Doors called
+In Destructor Doors
+
+
+######################### 2
+
+In destructor Nano
+Destructor for Nano called
+Destructor for Car called
+In destructor Car
+In destructor DoorsSmall
+Destructor for DoorsSmall called
+Destructor for Doors called
+In Destructor Doors
+Destructor for DoorsLarge called
+In Destructor DoorsLarge
+Destructor for Doors called
+In Destructor Doors
+
+
+######################### 3
+
+In destructor Tron
+Destructor for Tron called
+Destructor for Car called
+In destructor Car
+In destructor DoorsSmall
+Destructor for DoorsSmall called
+Destructor for Doors called
+In Destructor Doors
+Destructor for DoorsLarge called
+In Destructor DoorsLarge
+Destructor for Doors called
+In Destructor Doors
+
+
+######################### 4
+
+In destructor Swift
+Destructor for Swift called
+Destructor for Car called
+In destructor Car
+In destructor DoorsSmall
+Destructor for DoorsSmall called
+Destructor for Doors called
+In Destructor Doors
+Destructor for DoorsLarge called
+In Destructor DoorsLarge
+Destructor for Doors called
+In Destructor Doors
+
+
+ Scope End Destructors
+
+In destructor Tron
+Destructor for Tron called
+Destructor for Car called
+In destructor Car
+In destructor DoorsSmall
+Destructor for DoorsSmall called
+Destructor for Doors called
+In Destructor Doors
+Destructor for DoorsLarge called
+In Destructor DoorsLarge
+Destructor for Doors called
+In Destructor Doors
+In destructor Swift
+Destructor for Swift called
+Destructor for Car called
+In destructor Car
+In destructor DoorsSmall
+Destructor for DoorsSmall called
+Destructor for Doors called
+In Destructor Doors
+Destructor for DoorsLarge called
+In Destructor DoorsLarge
+Destructor for Doors called
+In Destructor Doors
